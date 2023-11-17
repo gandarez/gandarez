@@ -4,7 +4,7 @@
 [![twitter](https://img.shields.io/twitter/follow/carlosgandarez?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/carlosgandarez)
 [![github](https://img.shields.io/github/followers/gandarez?logo=github&style=plastic)](https://github.com/gandarez?tab=followers)
 
-- 🔭 I’m seeking for new challenges
+- 🔭 I’m currently working on [https://coinbase.com](https://coinbase.com)
 - Contributor at [WakaTime](https://wakatime.com)
 - 👯 I’m looking to collaborate on Golang open source projects
 - 🌱 I’m currently learning Flutter
